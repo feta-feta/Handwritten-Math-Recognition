@@ -51,11 +51,7 @@ All main project scripts are located in the `src` directory, and dependencies re
 
 The complete visual results, model evaluations, and clustering plots are fully documented and can be viewed in the `visualizations.ipynb` notebook. 
 
-
-
-![image-20260528211236803](C:\Users\fatem\AppData\Roaming\Typora\typora-user-images\image-20260528211236803.png)
-
-
+![results](./results/fig.jpg)
 
 ## References
 
